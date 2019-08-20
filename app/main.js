@@ -1,10 +1,10 @@
 import Alligator from "./models/Alligator.js";
 import Bear from "./models/Bear.js";
-import Macaw from ".models/Macaw.js";
+import Macaw from "./models/Macaw.js";
 import RedPanda from "./models/RedPanda.js";
 import SnowLeopard from "./models/SnowLeopard.js";
 import Wallaby from "./models/Wallaby.js";
-import Crocodile from "./models/Crocodile.js/index.js";
+import Crocodile from "./models/Crocodile.js";
 import Elephant from "./models/Elephant.js";
 import Goanna from "./models/Goanna.js";
 

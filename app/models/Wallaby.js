@@ -17,3 +17,5 @@ class Wallaby {
     console.log(`Chomp chomp all the${food}ies.`)
   }
 }
+
+export default Wallaby;
