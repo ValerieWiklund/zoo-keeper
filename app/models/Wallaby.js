@@ -2,7 +2,7 @@ class Wallaby {
   constructor(
     name = "",
     gender = "",
-    age = "",
+    age = 0,
     lengthInch = 0,
     zone = ""
   ) {
